@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 "
+  ],
+  "key": {
+    "0": {
+      "item": "pesetamod:peseta"
+    },
+    "1": {
+      "item": "pesetamod:peseta"
+    },
+    "2": {
+      "item": "pesetamod:peseta"
+    },
+    "3": {
+      "item": "pesetamod:peseta"
+    },
+    "4": {
+      "item": "pesetamod:peseta"
+    }
+  },
+  "result": {
+    "item": "pesetamod:duro",
+    "count": 1
+  }
+}

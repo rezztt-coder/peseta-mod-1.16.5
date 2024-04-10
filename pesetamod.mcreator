@@ -1,0 +1,75 @@
+{
+  "mod_elements": [
+    {
+      "name": "Peseta",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peseta"
+    },
+    {
+      "name": "Duro",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "duro"
+    },
+    {
+      "name": "PesetaMod",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peseta_mod"
+    },
+    {
+      "name": "PesetaToDuro",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peseta_to_duro"
+    },
+    {
+      "name": "DuroToPeseta",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "duro_to_peseta"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabpeseta_mod": "Peseta Mod",
+      "item.pesetamod.duro": "Duro",
+      "item.pesetamod.peseta": "Peseta"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "pesetamod",
+    "modName": "peseta-mod",
+    "version": "1.0.0",
+    "author": "Administrator, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.pesetamod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
